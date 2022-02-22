@@ -1,0 +1,7 @@
+<html>
+	<head>
+		<title>simple</title>
+	</head>
+	<body>
+		<pre>secret value is 4978085 </pre>
+	</body>
